@@ -1,7 +1,7 @@
 {
   "name": "gift-shop",
   "version": "0.1.0",
-  "proxy": "https://gifty-backend2.onrender.com",
+  "proxy": "https://gifty-puze.onrender.com",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",

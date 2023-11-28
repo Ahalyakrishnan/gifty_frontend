@@ -27,7 +27,7 @@ function ViewResult() {
     };
   
     try {
-      const response = await fetch('https://gifty-backend2.onrender.com/gift/addtocart', { 
+      const response = await fetch('https://gifty-puze.onrender.com/gift/addtocart', { 
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
